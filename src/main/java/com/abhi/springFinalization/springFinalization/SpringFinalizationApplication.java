@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class SpringFinalizationApplication {
 
 	public static void main(String[] args) {
-		System.out.println("testing release automation pipeline--");
+		System.out.println("testing release automation pipelin");
 		SpringApplication.run(SpringFinalizationApplication.class, args);
 	}
 
